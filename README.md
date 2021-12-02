@@ -4,7 +4,7 @@
 - :books: I am currently studying Computer Science at the University of Florida.
 - :envelope: How to reach me:
   - 📘 [LinkedIn](https://www.linkedin.com/in/mikepangas/)
-  - 📕 [Email](mike.pangas.2@gmail.com)
+  - 📕 Email (mike.pangas.2@gmail.com)
 
 [![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mpangas&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
