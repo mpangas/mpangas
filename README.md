@@ -2,7 +2,7 @@
 
 - :computer: I am interested in programming, game development, and cybersecurity.
 - :books: I am currently studying Computer Science at the University of Florida.
-- :envelope: How to reach me:
+- :envelope: Where to find me:
   - 📘 [LinkedIn](https://www.linkedin.com/in/mikepangas/)
   - 📕 [Twitter](https://twitter.com/mike_pangas)
 
