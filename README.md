@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mike!
 
-- :computer: I am interested in programming, game development, and cybersecurity.
+- :computer: I am interested in mobile devleopment, game development, and open source projects.
 - :books: I am currently studying Computer Science at the University of Florida.
 - :envelope: Where to find me:
   - 📘 [LinkedIn](https://www.linkedin.com/in/mikepangas/)
