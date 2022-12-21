@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mike!
 
-- :computer: I am interested in mobile devleopment, game development, and open source projects.
+- :computer: I am interested in application devleopment, video game development, and human-centered design.
 - :books: I am currently studying Computer Science at the University of Florida.
 - :envelope: Where to find me:
   - 📘 [LinkedIn](https://www.linkedin.com/in/mikepangas/)
