@@ -2,9 +2,7 @@
 
 - :computer: I am interested in application development, video game development, and human-centered design.
 - :books: I am currently studying Computer Science at the University of Florida.
-- :envelope: Where to find me:
-  - 📘 [LinkedIn](https://www.linkedin.com/in/mikepangas/)
-  - 📕 [Twitter](https://twitter.com/mike_pangas)
+- :envelope: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mikepangas/)
 
 [![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mpangas&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
