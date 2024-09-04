@@ -2,7 +2,8 @@
 
 - :computer: I am a full-stack application developer
 - :books: I study Computer Science at the University of Florida
-- :apple: I am currently a Teaching Assistant for CEN3031 Intro to Software Engineering 
+- :man_technologist: I was a Software Engineering Intern at Microsoft
+- :apple: I was a Teaching Assistant for CEN3031 Intro to Software Engineering 
 - :envelope: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mikepangas/)
 
 <!---
