@@ -1,9 +1,7 @@
 ## 👋 Hi, I’m Mike!
 
-- :computer: I am a full-stack application developer
-- :books: I study Computer Science at the University of Florida
-- :man_technologist: I was a Software Engineering Intern at Microsoft
-- :apple: I was a Teaching Assistant for CEN3031 Intro to Software Engineering 
+- :computer: I am a Software Engineer at Microsoft
+- :books: I graduated with a CS degree from the University of Florida
 - :envelope: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mikepangas/)
 
 <!---
